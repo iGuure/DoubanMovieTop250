@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="hawk-2.0.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/84b33df653abce33fba60ba13b81b15ec82c3e2f/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/84b33df653abce33fba60ba13b81b15ec82c3e2f/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.orhanobut/hawk/2.0.1/c88542f56b91ba489723bb6f58f14a303e953d64/hawk-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
